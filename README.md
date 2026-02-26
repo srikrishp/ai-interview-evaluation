@@ -111,7 +111,7 @@ Built an AI-powered interview preparation platform using Hugging Face LLMs that 
 
 # Contributing
 
-Contributions and suggestions are welcome. Feel free to open issues or submit pull requests.
+Contributions and suggestions are welcome. Feel free to open issues or submit pull requests contributions.
 
 # Acknowledgements
 
@@ -121,8 +121,4 @@ Google Colab
 
 Open-source AI community
 
-# Final Tip
-
-This README is already strong enough for recruiters.
-You don’t need React or deployment to make this project valuable.
 
