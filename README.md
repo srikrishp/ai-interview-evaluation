@@ -1,4 +1,4 @@
-# ai-interview-evaluation
+# AI-interview-evaluation
 📌 Overview
 
 The AI Interview Preparation & Evaluation Platform is an AI-powered system that helps users practice technical interviews in a realistic way. The project analyzes a candidate’s resume to extract relevant skills, generates role-specific interview questions, and evaluates candidate answers with structured feedback using Large Language Models (LLMs).
